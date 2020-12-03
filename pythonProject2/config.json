@@ -1,0 +1,14 @@
+{
+
+  "location":"Exeter",
+  "apikeys": {
+    "news":"409ce2263e414fabb1bfed53e6517e5c",
+    "weather":"845af5ce908c3b8252dd0c7bb8cc1f87"
+  },
+  "filepaths": {
+    "bbc_news_json": "./bbc_news.json",
+    "weather_json": "./weather.json",
+    "covid_json": "./UK_covid.json",
+    "system_log": "./sys1.log"
+  }
+}
