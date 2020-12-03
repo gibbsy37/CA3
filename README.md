@@ -73,5 +73,5 @@ DATA
 
 ## Details
 Author: Adam Gilbert
-Licence: file:///C:/Users/adamg/Documents/CA3%20Python%20Package/LICENSE.htm
+Licence: https://github.com/gibbsy37/CA3/blob/main/LICENSE
 Link to source: test
